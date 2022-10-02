@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "text": "Accueil",
-      "url": "/",
-      "external": false
+      "text": "sdgdg",
+      "url": "/dddd",
+      "external": ""
     },
     {
       "text": "GitHub",
@@ -13,6 +13,11 @@
     {
       "text": "Example Contact Page",
       "url": "/contact",
+      "external": false
+    },
+    {
+      "text": "Accueil",
+      "url": "/",
       "external": false
     }
   ]
