@@ -5,8 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: heeeed
-- type: heading
   label: Content
 - type: directory
   path: src/posts
@@ -17,6 +15,8 @@ sections:
   - post
 - type: heading
   label: Globals
+- type: heading
+  label: heeeed
 - type: document
   path: src/_data/navigation.json
   label: Navigation
