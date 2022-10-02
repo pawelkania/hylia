@@ -2,9 +2,11 @@
 title: A simple post
 date: 2020-06-08
 tags:
+- jg
 - demo-content
 - simple-post
 - blog
+image: "/images/map.jpg"
 
 ---
 A simple post to demonstrate how a normal blog post looks on Hylia. Content is
